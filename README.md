@@ -9,11 +9,11 @@ Passionate about infrastructure resilience and technological innovation. Althoug
 ### 🛠️ Technologies & Core Stack
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Fortinet](https://img.shields.io/badge/Fortinet-%23EE3124.svg?style=for-the-badge&logo=fortinet&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-yellow?style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-yellow?style=for-the-badge)
 ![MindSpore](https://img.shields.io/badge/MindSpore-%2312213F.svg?style=for-the-badge&logo=huawei&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 **Web Fundamentals:**
 
@@ -25,7 +25,6 @@ Passionate about infrastructure resilience and technological innovation. Althoug
 
 ### 📩 Contact Me
 * **Email**: [tyagonzales66@gmail.com](mailto:tyagonzales66@gmail.com)
-* **LinkedIn**: [Your Profile Link Here]
 
 ---
 *“Securing today to connect tomorrow.”*
