@@ -1,9 +1,8 @@
 # Hello, I'm Tyves! 🛡️🌐
 
-### Telecom & Network Security Engineer
-**Specializing in Cybersecurity (ISO/IEC 27001, Fortinet) & Network Coverage Analysis**
+## Telecom & Network Security Engineer | Aspiring Cybersecurity & AI Expert
 
-I am a Telecom Engineer dedicated to securing critical infrastructures and optimizing network performance. Currently expanding my expertise into Artificial Intelligence, I focus on bridging the gap between robust security standards and AI-driven automation. As an enthusiastic developer, I am committed to continuous learning and contributing to innovative tech solutions.
+Passionate about infrastructure resilience and technological innovation. Although I am at the beginning of my journey in the world of open-source code, I am committed daily to linking the rigor of security standards with the power of Artificial Intelligence.
 
 ---
 
@@ -17,6 +16,7 @@ I am a Telecom Engineer dedicated to securing critical infrastructures and optim
 ![MindSpore](https://img.shields.io/badge/MindSpore-%2312213F.svg?style=for-the-badge&logo=huawei&logoColor=white)
 
 **Web Fundamentals:**
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
