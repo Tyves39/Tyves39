@@ -1,10 +1,8 @@
 # Salut, moi c'est Tyves ! 🛡️📡
 
-### Ingénieur Télécom & Sécurité Réseau 
-**Expertise : Cybersécurité (ISO/IEC 27001, Fortinet) | Analyse de couverture réseau**
+### Ingénieur Télécom & Sécurité Réseau | Aspirant Expert en Cybersécurité & IA
 
-Enthousiaste à l'idée de déployer des applications d'IA, je m'investis dans la sécurisation des infrastructures télécoms et l'optimisation de leurs performances. Je suis un passionné débutant dans le monde du développement, avec une forte volonté d'apprendre et de contribuer à des projets innovants.
-
+Passionné par la résilience des infrastructures et l'innovation technologique. Bien que je sois au début de mon voyage dans le monde du code open-source, je m'investis quotidiennement pour lier la rigueur des normes de sécurité à la puissance de l'Intelligence Artificielle.
 ---
 
 ### 🛠️ Technologies & Outils
@@ -21,8 +19,7 @@ Enthousiaste à l'idée de déployer des applications d'IA, je m'investis dans l
 ---
 
 ### 📫 Me contacter
-* **LinkedIn** : [Insérez votre lien ici]
-* **Email** : [Votre adresse email]
+* **Email** : tyagonzales66@gmail.com
 
 ---
 *« Sécuriser aujourd'hui pour connecter demain. »*
